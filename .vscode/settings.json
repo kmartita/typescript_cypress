@@ -1,0 +1,6 @@
+{
+    "cucumberautocomplete.steps": [
+        "cypress/e2e/steps_definition/**/*.ts"
+    ],
+    "cucumberautocomplete.strictGherkinCompletion": true
+}
