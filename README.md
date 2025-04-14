@@ -9,6 +9,7 @@ This is a test automation project that supports API testing using Cypress.<br/>
 4. API Test Execution<br/>
 5. JSON Configuration<br/>
 6. Additional Features<br/>
+7. Report Overview<br/>
 
 ## 1. Setup Local Machine
 #### This guide assumes the following:
@@ -47,4 +48,4 @@ The `commands.ts` file includes custom Cypress commands, such as extractAlias, w
 The `Faker` library is used to generate random values for testing scenarios.
 
 ## 7. Report Overview
-![Report](file:///Users/martakravchuk/r_d/API/typescript/CypressApi/cypress/reports/html/index.html)
+<img width="1679" alt="Screenshot 2025-04-14 at 03 26 46" src="https://github.com/user-attachments/assets/9cf5ae6e-6cee-4778-8d2a-c0d377861c58" />
