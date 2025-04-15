@@ -26,6 +26,7 @@ allure-results/
 cypress/screenshots/**
 # JetBrains IDE
 .idea/
+.vscode/
 
 # Unit test reports
 TEST*.xml
