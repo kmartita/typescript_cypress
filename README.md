@@ -32,6 +32,7 @@ The `goals_scenarios.ts` file contains implementations for all scenarios describ
 The `hooks.ts` file implements three hooks, including one that runs before each scenario to fetch `team_id` and `user_id`, storing them in global variables.<br/>
 
 ## 4. API Test Execution
+Before executing, please create a hidden `.env` file that includes the parameters called `TOKEN` and `USER_NAME` to configure the testing environment for the API tests. To obtain your personal token, refer to the [helper](https://help.clickup.com/hc/en-us/articles/6303426241687-Use-the-ClickUp-API).<br/>
 To run tests, execute the following command in the terminal: <br/>
 
   >  npm run cypress:runner

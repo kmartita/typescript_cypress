@@ -1,7 +1,7 @@
 export const config = {
     data: {
         user: {
-            name: 'Marta Kravchuk'
+            name: process.env.USER_NAME
         }
     }
   };
