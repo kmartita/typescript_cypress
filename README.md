@@ -20,7 +20,7 @@ To get started, run the following command in the terminal:<br/>
 * Ensure all dependencies are installed.<br/>
 
 ## 2. Project Overview
-This project is designed to automate API testing using Cypress. It provides a structured approach to ensure the API performs as expected, incorporating various HTTP methods and a data-driven approach.<br/>
+This demo-project implements API tests for ClickUp platform using Cypress. It provides a structured approach to ensure the API performs as expected, incorporating various HTTP methods and a data-driven approach.<br/>
 
 ## 3. Create API Test Scenarios
 Creating API test scenarios involves defining test data, expected API behavior, and specific criteria using data-driven approaches.<br/>
