@@ -24,6 +24,8 @@ dist/
 allure-report/
 allure-results/
 cypress/screenshots/**
+.env
+
 # JetBrains IDE
 .idea/
 .vscode/
